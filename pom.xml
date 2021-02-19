@@ -11,6 +11,8 @@
     <modules>
         <module>V1</module>
         <module>V2</module>
+        <module>v7</module>
+
     </modules>
 
     <properties>
